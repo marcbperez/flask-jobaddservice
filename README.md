@@ -19,7 +19,7 @@ To start the service set the environment variables and run flask, it will be
 available at `http://127.0.0.1:5000`.
 
 ```bash
-export FLASK_APP="restfuloauth2"
+export FLASK_APP="jobaddservice"
 export SECRET_KEY="non-production-key"
 sudo -HE flask run
 ```
