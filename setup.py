@@ -33,7 +33,7 @@ setup(
         'beautifulsoup4',
     ],
     setup_requires=[
-        'pytest-runner',
+        'pytest-runner<=3.9',
         'setuptools-pep8',
     ],
     tests_require=[
