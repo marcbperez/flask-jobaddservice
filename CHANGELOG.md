@@ -5,6 +5,18 @@ project adheres to [Semantic Versioning](http://semver.org).
 
 ## Unreleased
 
+## 0.3.0 - 2017-07-23
+
+### Added
+
+  - Untracked files for PyTest.
+  - Application, configuration, crawler, database, Oauth2 and tests.
+
+### Changed
+
+  - Gradle wrapper for this project.
+  - Pytest Runner version in application setup.
+
 ## 0.2.0 - 2017-07-21
 
 ### Added
